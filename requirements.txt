@@ -1,0 +1,12 @@
+```
+pandas
+matplotlib
+seaborn
+requests
+black
+flake8
+pylint
+isort
+pytest
+pytest-cov
+```
